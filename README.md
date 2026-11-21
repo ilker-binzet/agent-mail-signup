@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/muse-logo.webp" alt="Muse by Meta" width="480">
+</p>
+
 # Agent Mail Signup
 
 **Let your AI agent sign up for websites for you — with its own email address, generated passwords, and a one-time setup interview that personalizes everything.**
